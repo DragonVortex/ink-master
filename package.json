@@ -5,9 +5,9 @@
   "main": "index.js",
   "license": "MIT",
   "author": {
-    "name": "DragonVortex",
+    "name": "Matt DesLauriers",
     "email": "unspecified",
-    "url": "https://github.com/DragonVortex"
+    "url": "https://github.com/mattdesl"
   },
   "dependencies": {
     "array-range": "^1.0.1",

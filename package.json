@@ -1,13 +1,13 @@
 {
-  "name": "ink",
+  "name": "ink 2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "license": "MIT",
   "author": {
-    "name": "Matt DesLauriers",
-    "email": "dave.des@gmail.com",
-    "url": "https://github.com/mattdesl"
+    "name": "DragonVortex",
+    "email": "unspecified",
+    "url": "https://github.com/DragonVortex"
   },
   "dependencies": {
     "array-range": "^1.0.1",
@@ -52,10 +52,10 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mattdesl/ink.git"
+    "url": "git://github.com/DragonVortex/ink.git"
   },
-  "homepage": "https://github.com/mattdesl/ink",
+  "homepage": "https://github.com/DragonVortex/ink",
   "bugs": {
-    "url": "https://github.com/mattdesl/ink/issues"
+    "url": "https://github.com/DragonVortex/ink/issues"
   }
 }
